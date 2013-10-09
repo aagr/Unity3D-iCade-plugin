@@ -1,0 +1,9 @@
+{
+    "group": "GameWhizzes Plugins",
+    "libs": [],
+    "frameworks": [],
+    "headerpaths": [],                    
+    "files":   [],
+    "folders": ["iCade plugin/iCade plugin source files"],    
+    "excludes": ["^.*.meta$", "^.*.mdown^", "^.*.pdf$"]
+}
